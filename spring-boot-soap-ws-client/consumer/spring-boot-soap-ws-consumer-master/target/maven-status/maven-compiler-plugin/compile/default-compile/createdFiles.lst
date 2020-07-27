@@ -1,0 +1,7 @@
+com\jamal\spring\soap\api\loaneligibility\Acknowledgement.class
+com\jamal\spring\soap\api\loaneligibility\CustomerRequest.class
+com\jamal\spring\soap\api\loaneligibility\package-info.class
+com\jamal\spring\soap\api\config\SoapConfig.class
+com\jamal\spring\soap\api\clinet\SoapClinet.class
+com\jamal\spring\soap\api\SpringBootSopaWsClientApplication.class
+com\jamal\spring\soap\api\loaneligibility\ObjectFactory.class
